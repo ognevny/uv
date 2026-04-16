@@ -42,4 +42,4 @@ insta = { version = "1.36.1", features = ["filters"] }
 itertools = { version = "0.13.0" }
 tempfile = { version = "3.9.0" }
 test-case = { version = "3.3.1" }
-tokio = { version = "1.35.1" }
+tokio = { version = "1.43.1" }
